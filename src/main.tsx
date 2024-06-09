@@ -10,7 +10,7 @@ const manifestUrl = 'https://raw.githubusercontent.com/ton-community/tutorials/m
 
 
 
-const tgToken = "7449247944:AAHsuhAWb4RVB770ioTi_KuE4puLph-9T3s"
+
 
 
 WebApp.ready();
